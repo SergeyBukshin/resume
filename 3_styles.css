@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Roboto&family=Rubik+Burned&display=swap');
+body,p {
+    text-decoration:;
+    font-family: Lato, sans-serif;
+    font-weight: normal;
+    font-size: 20px;
+    word-spacing: 4px;
+    
+}
+
+p {
+    font-style: italic;
+    font-weight: bold;
+}
+
